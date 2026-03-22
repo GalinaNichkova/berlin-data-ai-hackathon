@@ -55,7 +55,7 @@ Key column groups you'll find in Collate:
   - `CC_YAUAA` — parsed user agent: `deviceClass` (Desktop, Phone, Robot), `agentName`. Essential for bot filtering
   - `CC_SEARCH` — `searchEntry` (what the user typed)
 
-### OBJECTS table — 2.3M rows
+### OBJECTS table — ~13M rows
 
 Title and content metadata — one row per content object. **35 columns**:
 

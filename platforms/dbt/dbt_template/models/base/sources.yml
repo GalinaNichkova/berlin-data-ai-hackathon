@@ -102,7 +102,7 @@ sources:
 
       - name: OBJECTS
         description: >
-          JustWatch content metadata. ~2.3M rows. One row per content object (movie, show, season, episode).
+          JustWatch content metadata. ~13M rows. One row per content object (movie, show, season, episode).
           Join to events via: cc_title:jwEntityId::TEXT = objects.object_id.
         columns:
           - name: object_id

@@ -1,4 +1,4 @@
--- JustWatch content metadata | ~2.3M rows
+-- JustWatch content metadata | ~13M rows
 -- Join to events: cc_title:jwEntityId::TEXT = object_id
 
 select *

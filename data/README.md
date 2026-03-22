@@ -27,7 +27,7 @@ All data lives in `DB_JW_SHARED.CHALLENGE` (read-only, shared across all teams).
 | **T2** | 40M | 5.7 GB | 8 EU markets | Dec 2025 |
 | **T3** | 128M | 17.9 GB | 8 EU markets | Nov 25 – Jan 26 |
 | **T4** | 254M | 36.1 GB | 15 global markets | Nov – Dec 25 |
-| **OBJECTS** | 2.3M | 1.1 GB | — | — |
+| **OBJECTS** | 13M | 1.1 GB | — | — |
 | **PACKAGES** | 1,526 | — | — | — |
 
 **Start with T1** — it's small and fast. Validate your queries there, then swap the table name to scale up.
